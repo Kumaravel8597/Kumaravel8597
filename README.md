@@ -1,15 +1,19 @@
-# Hi 👋, I'm Kumaravel
+# Hi 👋, I'm Kumaravel. A self-taught programmer...!!!
 
-## A self-taught programmer...!!!
+#### Talking about Personal Stuffs!
 
+ 🔭 I’m currently working as Mobile App Developer
 
-🔭 I’m currently working as Mobile App Developer
+ 🌱 I’m currently learning Flutter, SwiftUI
 
-🌱 I’m currently learning Flutter, SwiftUI
+ 👯 I’m looking to collaborate on flutter packages and with other content creators
+ 
+ 🤔 I’m looking for help with anything in which you have expertise.
+ 
+ 📫 How to reach me: kumaravelguna@gmail.com
 
-👯 I’m looking to collaborate with other content creators
+ ⚡ Fun fact I love to play Football and Chai over coffee.
 
-⚡ Fun fact I love to play Football and Chai over coffee.
 
 
 <!--
